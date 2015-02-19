@@ -1,4 +1,4 @@
 CubeVerse
 =========
 
-CuberVerse Engine
+CubeVerse Engine
